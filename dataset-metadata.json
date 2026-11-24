@@ -1,0 +1,22 @@
+{
+  "title": "RateZip U.S. Consumer Finance Open Datasets (Savings Tax Hurdle, 53k .gov Auto Quotes, 126-City Equity)",
+  "id": "ratezip/us-consumer-finance-open-datasets-2026",
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0"
+    }
+  ],
+  "keywords": [
+    "finance",
+    "personal finance",
+    "banking",
+    "interest rates",
+    "mortgages",
+    "auto insurance",
+    "real estate",
+    "united states",
+    "economics"
+  ],
+  "subtitle": "50-State CD vs. Treasury Tax Hurdle, 53,685 Official State .gov Auto Insurance Quotes, and 126-City Mortgage Readiness Data",
+  "description": "Public, reproducible U.S. consumer finance datasets published by RateZip (https://www.ratezip.com). Includes: (1) 50-state + DC CD vs. 1-year Treasury state-tax hurdle table (https://www.ratezip.com/data/savings-gap), (2) 53,685 official quotes from 10 state department of insurance databases (https://www.ratezip.com/data/auto-insurance-study), and (3) 126-city post-2021 homebuyer equity and mortgage readiness table (https://www.ratezip.com/data/mortgage-readiness-cities-2027). Full methodology at https://www.ratezip.com/methodology; live unauthenticated MCP endpoint at https://mcp.ratezip.com/mcp."
+}

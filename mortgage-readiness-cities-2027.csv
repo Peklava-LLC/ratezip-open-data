@@ -1,0 +1,127 @@
+rank,city,state_abbr,state_name,below_purchase_price_share_pct,median_value_change_pct,state_mortgage_loan_tax,state_dpa_programs_tracked,as_of
+1,"Lithonia",GA,"Georgia",80,-4.2,yes,5,2026-10-01
+2,"Winter Haven",FL,"Florida",74,-3.5,yes,6,2026-10-01
+3,"Atlanta",GA,"Georgia",73,-9.8,yes,5,2026-10-01
+4,"Phoenix",AZ,"Arizona",70,-3.6,no,24,2026-10-01
+5,"Colorado Springs",CO,"Colorado",70,-3.3,no,3,2026-10-01
+6,"McDonough",GA,"Georgia",70,-1.1,yes,5,2026-10-01
+7,"Fort Myers",FL,"Florida",69,-5.2,yes,6,2026-10-01
+8,"Conyers",GA,"Georgia",68,-2.8,yes,5,2026-10-01
+9,"Bradenton",FL,"Florida",67,-2.9,yes,6,2026-10-01
+10,"Riverdale",GA,"Georgia",66,-2.5,yes,5,2026-10-01
+11,"Lawrenceville",GA,"Georgia",66,-2.1,yes,5,2026-10-01
+12,"Aurora",CO,"Colorado",65,-3.2,no,3,2026-10-01
+13,"Denver",CO,"Colorado",62,-1.9,no,3,2026-10-01
+14,"Port Charlotte",FL,"Florida",62,-1.3,yes,6,2026-10-01
+15,"Kissimmee",FL,"Florida",61,-1.5,yes,6,2026-10-01
+16,"Jonesboro",GA,"Georgia",59,-5.3,yes,5,2026-10-01
+17,"Tucson",AZ,"Arizona",59,-1.6,no,24,2026-10-01
+18,"Mesa",AZ,"Arizona",59,-0.9,no,24,2026-10-01
+19,"Melbourne",FL,"Florida",58,-2.5,yes,6,2026-10-01
+20,"Orlando",FL,"Florida",58,-0.9,yes,6,2026-10-01
+21,"Little Rock",AR,"Arkansas",57,-6.7,no,7,2026-10-01
+22,"Palm Bay",FL,"Florida",57,-1.6,yes,6,2026-10-01
+23,"Boynton Beach",FL,"Florida",57,-0.8,yes,6,2026-10-01
+24,"Lakeland",FL,"Florida",56,-0.9,yes,6,2026-10-01
+25,"New Port Richey",FL,"Florida",56,-0.8,yes,6,2026-10-01
+26,"Port Saint Lucie",FL,"Florida",56,-0.7,yes,6,2026-10-01
+27,"Jacksonville",FL,"Florida",55,-0.8,yes,6,2026-10-01
+28,"Sarasota",FL,"Florida",55,-0.7,yes,6,2026-10-01
+29,"Las Vegas",NV,"Nevada",54,-0.8,no,3,2026-10-01
+30,"Hollywood",FL,"Florida",53,-0.7,yes,6,2026-10-01
+31,"Vero Beach",FL,"Florida",53,-0.7,yes,6,2026-10-01
+32,"St. Augustine",FL,"Florida",53,-0.5,yes,6,2026-10-01
+33,"Stone Mountain",GA,"Georgia",52,-0.7,yes,5,2026-10-01
+34,"Vancouver",WA,"Washington",52,-0.2,no,10,2026-10-01
+35,"Naples",FL,"Florida",51,-0.7,yes,6,2026-10-01
+36,"West Palm Beach",FL,"Florida",51,-0.6,yes,6,2026-10-01
+37,"Kennesaw",GA,"Georgia",51,-0.2,yes,5,2026-10-01
+38,"Nashville",TN,"Tennessee",51,-0.2,yes,3,2026-10-01
+39,"Clearwater",FL,"Florida",50,-0.4,yes,6,2026-10-01
+40,"Covington",GA,"Georgia",50,-0.3,yes,5,2026-10-01
+41,"Pueblo",CO,"Colorado",50,-0.2,no,3,2026-10-01
+42,"Ocala",FL,"Florida",50,-0.1,yes,6,2026-10-01
+43,"Washington",DC,"District of Columbia",50,0.2,yes,2,2026-10-01
+44,"Dallas",GA,"Georgia",49,0.2,yes,5,2026-10-01
+45,"Spokane",WA,"Washington",49,0.2,no,10,2026-10-01
+46,"Panama City",FL,"Florida",49,0.5,yes,6,2026-10-01
+47,"Gainesville",FL,"Florida",49,0.8,yes,6,2026-10-01
+48,"Cape Coral",FL,"Florida",48,0.6,yes,6,2026-10-01
+49,"Memphis",TN,"Tennessee",48,0.8,yes,3,2026-10-01
+50,"Murfreesboro",TN,"Tennessee",47,0.5,yes,3,2026-10-01
+51,"St. Petersburg",FL,"Florida",46,0.7,yes,6,2026-10-01
+52,"Clarksville",TN,"Tennessee",46,1.2,yes,3,2026-10-01
+53,"Decatur",GA,"Georgia",46,1.6,yes,5,2026-10-01
+54,"Macon",GA,"Georgia",46,2.6,yes,5,2026-10-01
+55,"Savannah",GA,"Georgia",45,0.4,yes,5,2026-10-01
+56,"Tampa",FL,"Florida",45,1.7,yes,6,2026-10-01
+57,"Marietta",GA,"Georgia",43,1.5,yes,5,2026-10-01
+58,"Boca Raton",FL,"Florida",43,2.6,yes,6,2026-10-01
+59,"Pensacola",FL,"Florida",42,2.3,yes,6,2026-10-01
+60,"New Orleans",LA,"Louisiana",42,3.5,no,7,2026-10-01
+61,"Minneapolis",MN,"Minnesota",42,5.0,yes,1,2026-10-01
+62,"Portland",OR,"Oregon",39,1.8,no,4,2026-10-01
+63,"Tacoma",WA,"Washington",38,1.3,no,10,2026-10-01
+64,"Spring Hill",FL,"Florida",38,2.1,yes,6,2026-10-01
+65,"Charlotte",NC,"North Carolina",38,2.7,no,2,2026-10-01
+66,"Seattle",WA,"Washington",38,5.6,no,10,2026-10-01
+67,"St. Louis",MO,"Missouri",35,5.7,no,7,2026-10-01
+68,"Des Moines",IA,"Iowa",34,6.6,no,6,2026-10-01
+69,"Sacramento",CA,"California",33,2.0,no,8,2026-10-01
+70,"Tallahassee",FL,"Florida",33,4.0,yes,6,2026-10-01
+71,"Shreveport",LA,"Louisiana",32,3.3,no,7,2026-10-01
+72,"Columbus",GA,"Georgia",32,3.9,yes,5,2026-10-01
+73,"Cumming",GA,"Georgia",32,4.9,yes,5,2026-10-01
+74,"Fort Lauderdale",FL,"Florida",32,4.9,yes,6,2026-10-01
+75,"Detroit",MI,"Michigan",32,15.3,no,3,2026-10-01
+76,"Oklahoma City",OK,"Oklahoma",31,4.9,yes,2,2026-10-01
+77,"Harrisburg",PA,"Pennsylvania",31,7.6,no,5,2026-10-01
+78,"Newark",NJ,"New Jersey",31,17.1,no,2,2026-10-01
+79,"Stockton",CA,"California",30,2.4,no,8,2026-10-01
+80,"Miami",FL,"Florida",30,5.0,yes,6,2026-10-01
+81,"Columbia",SC,"South Carolina",30,5.9,no,2,2026-10-01
+82,"Raleigh",NC,"North Carolina",29,3.4,no,2,2026-10-01
+83,"Edmond",OK,"Oklahoma",29,3.8,yes,2,2026-10-01
+84,"Cincinnati",OH,"Ohio",29,4.1,no,4,2026-10-01
+85,"Salem",OR,"Oregon",29,4.5,no,4,2026-10-01
+86,"Augusta",GA,"Georgia",29,4.6,yes,5,2026-10-01
+87,"Philadelphia",PA,"Pennsylvania",29,8.2,no,5,2026-10-01
+88,"Knoxville",TN,"Tennessee",29,8.8,yes,3,2026-10-01
+89,"Baton Rouge",LA,"Louisiana",28,2.9,no,7,2026-10-01
+90,"San Diego",CA,"California",27,2.2,no,8,2026-10-01
+91,"Baltimore",MD,"Maryland",27,9.4,yes,2,2026-10-01
+92,"Pittsburgh",PA,"Pennsylvania",26,10.0,no,5,2026-10-01
+93,"Warner Robins",GA,"Georgia",25,15.3,yes,5,2026-10-01
+94,"Columbus",OH,"Ohio",24,4.9,no,4,2026-10-01
+95,"Chattanooga",TN,"Tennessee",24,8.2,yes,3,2026-10-01
+96,"Jersey City",NJ,"New Jersey",24,14.2,no,2,2026-10-01
+97,"Chicago",IL,"Illinois",24,15.7,no,8,2026-10-01
+98,"Oakland",CA,"California",23,4.0,no,8,2026-10-01
+99,"Lexington",KY,"Kentucky",23,13.3,no,3,2026-10-01
+100,"Norfolk",VA,"Virginia",22,8.5,yes,3,2026-10-01
+101,"Omaha",NE,"Nebraska",22,10.7,no,2,2026-10-01
+102,"Fresno",CA,"California",20,2.4,no,8,2026-10-01
+103,"San Jose",CA,"California",19,4.0,no,8,2026-10-01
+104,"Modesto",CA,"California",19,4.3,no,8,2026-10-01
+105,"Rockford",IL,"Illinois",19,23.7,no,8,2026-10-01
+106,"Lancaster",PA,"Pennsylvania",18,11.9,no,5,2026-10-01
+107,"Erie",PA,"Pennsylvania",18,17.8,no,5,2026-10-01
+108,"York",PA,"Pennsylvania",17,14.6,no,5,2026-10-01
+109,"Allentown",PA,"Pennsylvania",15,20.0,no,5,2026-10-01
+110,"Riverside",CA,"California",14,4.2,no,8,2026-10-01
+111,"Los Angeles",CA,"California",14,6.1,no,8,2026-10-01
+112,"San Francisco",CA,"California",14,6.3,no,8,2026-10-01
+113,"Tulsa",OK,"Oklahoma",13,8.0,yes,2,2026-10-01
+114,"Louisville",KY,"Kentucky",13,10.5,no,3,2026-10-01
+115,"Lincoln",NE,"Nebraska",12,10.4,no,2,2026-10-01
+116,"Grand Rapids",MI,"Michigan",12,16.6,no,3,2026-10-01
+117,"Lansing",MI,"Michigan",12,19.0,no,3,2026-10-01
+118,"Richmond",VA,"Virginia",12,19.4,yes,3,2026-10-01
+119,"Reading",PA,"Pennsylvania",11,24.0,no,5,2026-10-01
+120,"Virginia Beach",VA,"Virginia",9,12.8,yes,3,2026-10-01
+121,"Lancaster",CA,"California",8,5.4,no,8,2026-10-01
+122,"Long Beach",CA,"California",8,6.1,no,8,2026-10-01
+123,"Bakersfield",CA,"California",8,8.0,no,8,2026-10-01
+124,"Toms River",NJ,"New Jersey",7,14.9,no,2,2026-10-01
+125,"Waterbury",CT,"Connecticut",6,12.8,no,5,2026-10-01
+126,"St. Paul",MN,"Minnesota",6,17.5,yes,1,2026-10-01
