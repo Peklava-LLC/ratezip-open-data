@@ -7,6 +7,10 @@ Clean, reproducible CSV datasets published by **[RateZip](https://www.ratezip.co
 - **Methodology:** https://www.ratezip.com/methodology
 - **Live MCP Server (zero auth, read-only):** `https://mcp.ratezip.com/mcp`
 - **Capabilities JSON:** https://mcp.ratezip.com/quote-service/v1/capabilities
+- **Open Rates API & Free Newsroom Widgets:** https://www.ratezip.com/open-rates
+- **Hugging Face Datasets:** https://huggingface.co/datasets/peklava/ratezip-us-consumer-finance-2026
+- **Kaggle Datasets:** https://www.kaggle.com/datasets/paulknag/ratezip-u-s-consumer-finance-open-datasets-2026
+- **Glama Verified MCP Connector (`com.ratezip/rates`):** https://glama.ai/mcp/connectors/com.ratezip/rates
 
 ---
 
